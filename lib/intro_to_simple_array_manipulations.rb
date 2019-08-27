@@ -8,8 +8,8 @@ def using_unshift(array, string)
 end
 
 
- def using_pop(array)
-  
+def using_pop(array)
+  array.pop(2)
 end
 
 
@@ -47,14 +47,12 @@ def using_flatten(array)
   
 end
 
-def using_unshift(array, string)
+def using_delete(array, string)
   
 end
 
 
-def using_unshift(array, string)
+def using_delete_at(array, integer)
   
 end
-
-
 
