@@ -47,4 +47,9 @@ def using_flatten(array)
   
 end
 
+def using_unshift(array, string)
+  
+end
+
+
 
