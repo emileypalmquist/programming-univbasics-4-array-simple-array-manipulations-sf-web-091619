@@ -17,3 +17,9 @@ def pop_with_args(array, string)
   
 end
 
+
+def using_unshift(array, string)
+  
+end
+
+
