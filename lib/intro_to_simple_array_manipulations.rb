@@ -39,7 +39,7 @@ end
 
 
 def using_unniq(array)
-  
+  array.unniq
 end
 
 
