@@ -13,30 +13,33 @@ end
 end
 
 
-def pop_with_args(array, string)
+def pop_with_args(array)
   
 end
 
 
-def using_unshift(array, string)
+def using_shift(array)
   
 end
 
 
-def using_unshift(array, string)
+def shift_with_args(array)
   
 end
 
 
-def using_unshift(array, string)
+def using_concat(array1, array2)
   
 end
 
 
-def using_unshift(array, string)
+def using_insert(array, element)
   
 end
 
 
+def using_unniq(array)
+  
+end
 
 
